@@ -1,0 +1,24 @@
+body {
+	background-color: #FFEBCD; /* color is know as BlanchedAlmond on http://www.w3schools.com/cssref/css_colornames.asp */
+}
+
+h1 {
+	color: red;
+	font-style: oblique;
+	text-align: center
+}
+
+body {
+    	width: 80%;
+    	max-width: 1080px;
+    	margin: 0 auto;
+}
+
+h2 {
+	color: blue
+	width: 80%;
+	max-width: 1080px;
+	margin: 0 auto;
+	font-style: 	
+}
+
